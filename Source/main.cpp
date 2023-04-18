@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     int number;
-    cout << "사용할 버튼의 개수를 입력하세요. (최대 10개): ";
+    cout << "사용할 버튼의 개수를 입력하세요. (4개 ~ 10개): ";
     cin >> number;
     cout << "게임을 시작하려면 마우스 오른쪽 버튼을 누르세요";
      
