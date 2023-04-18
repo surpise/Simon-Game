@@ -11,9 +11,9 @@ using namespace std;
 int main()
 {
     int number;
-    cout << "»ç¿ëÇÒ ¹öÆ°ÀÇ °³¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä. (ÃÖ´ë 10°³): ";
+    cout << "ì‚¬ìš©í•  ë²„íŠ¼ì˜ ê°œìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”. (ìµœëŒ€ 10ê°œ): ";
     cin >> number;
-    cout << "°ÔÀÓÀ» ½ÃÀÛÇÏ·Á¸é ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À» ´©¸£¼¼¿ä";
+    cout << "ê²Œì„ì„ ì‹œì‘í•˜ë ¤ë©´ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ì„ ëˆ„ë¥´ì„¸ìš”";
      
     RenderWindow window(VideoMode(750, 600), "Simon Game");
     window.setFramerateLimit(60);
