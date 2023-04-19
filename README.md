@@ -1,4 +1,4 @@
-# SFML를 이용하여 Simon Game 구현하기
+# SFML를 이용하여 Simon Game 만들기
 </br>
 
 ## 사용한 언어
